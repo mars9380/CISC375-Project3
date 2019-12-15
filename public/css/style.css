@@ -32,3 +32,7 @@ table {
 .info {
 	float: left;
 }
+
+.background {
+	background-image: url(./images/white-wall.jpg);
+}
