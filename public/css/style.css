@@ -29,3 +29,6 @@ table {
   padding: 30px;
 }
 
+.info {
+	float: right;
+}
