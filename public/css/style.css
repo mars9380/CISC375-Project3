@@ -30,6 +30,5 @@ table {
 }
 
 .info {
-	float: right;
-	padding-right: 500px;
+	float: left;
 }
