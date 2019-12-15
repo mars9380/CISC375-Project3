@@ -32,12 +32,10 @@ table {
 
 .info {
 	float: left;
+	font-size: 25px;
 }
 
 li{
   margin: 10px 0;
 }
 
-ol{
-	font-size: 25px;
-}
